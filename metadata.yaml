@@ -5,12 +5,17 @@ contributor:
     agent_name: Schultz, Georg Julius von
     gutenberg_agent_id: '50624'
     url: http://www.gutenberg.org/2009/agents/50624
+covers:
+- cover_type: archival
+  image_path: 59773-h/images/cover.jpg
 creator:
   author:
     agent_name: Gribojedow, Alexander
     gutenberg_agent_id: '50623'
     url: http://www.gutenberg.org/2009/agents/50623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59773#Verstand-schafft-Leiden-Schauspiel-in-vier-Akten
 gutenberg_issued: '2019-06-17'
 gutenberg_type: Text
 identifiers:
